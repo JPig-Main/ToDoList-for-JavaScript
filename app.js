@@ -37,7 +37,7 @@
                 if (e.key === 'Escape') {
                     this._inputValueReset();
                 }
-            })
+            });
         }
     }
 
